@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Настройка окружения",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VolodiaKuz/hexlet-js.git"
+  },
+  "author": "VolodiaKuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VolodiaKuz/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/VolodiaKuz/hexlet-js#readme"
+}
